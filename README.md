@@ -10,3 +10,12 @@ To run a trained AI the user can run the trained.py file
 ![Outline](https://github.com/william-Silver-droid/TetrAIs/blob/main/images/j.png)
 ## Implementation
 The tetris class will be used as the environment for the ai in order to interact with the tetris board
+The following import statements are used in the project
+* import random 
+* import time
+* import numpy
+* import threading
+* import pygame
+* import sys
+* import random
+* import keras
