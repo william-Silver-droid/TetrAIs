@@ -8,5 +8,5 @@ To train an AI the user can run the agent.py file
 To run a trained AI the user can run the trained.py file
 ## Class diagram
 ![Outline](https://github.com/william-Silver-droid/TetrAIs/blob/main/images/j.png)
-##Implementation
+## Implementation
 The tetris class will be used as the environment for the ai in order to interact with the tetris board
